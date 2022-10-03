@@ -64,7 +64,7 @@ class _BmiScreenState extends State<BmiScreen> {
                           child: Column(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
-                              const FaIcon(FontAwesomeIcons.venus, size: 90),
+                              const FaIcon(FontAwesomeIcons.mars, size: 90),
                               const SizedBox(
                                 height: 20,
                               ),
@@ -93,7 +93,7 @@ class _BmiScreenState extends State<BmiScreen> {
                           child: Column(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
-                              const FaIcon(FontAwesomeIcons.mars, size: 90),
+                              const FaIcon(FontAwesomeIcons.venus, size: 90),
                               const SizedBox(
                                 height: 20,
                               ),
